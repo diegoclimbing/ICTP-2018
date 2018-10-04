@@ -9,3 +9,4 @@ Repo for exercises and tests for workshops (this one!)
 ------------------------
 Created at Trieste
 Updated at Bucaramanga
+CARACAS now! 4/OCT/2018
